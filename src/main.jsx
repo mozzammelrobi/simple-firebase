@@ -5,6 +5,7 @@ import './index.css'
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import ManiLayout from './layouts/ManiLayout.jsx'
 import Home from './components/Home/Home.jsx'
+import Login from './components/Login/Login.jsx'
 
 const router = createBrowserRouter([
   {
@@ -13,7 +14,11 @@ const router = createBrowserRouter([
     children:[
       {
         path:'/',
-        element: <Home></Home>
+        element: <Home></Home>,
+      },
+      {
+        path: "/login",
+        element:<Login></Login>
       }
     ]
   },
