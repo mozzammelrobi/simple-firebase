@@ -1,8 +1,21 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React assignmet Eight
 
-Currently, two official plugins are available:
+- [live link](https://66033e5c5d352f0094c00218--b9-assignment-eight.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+### features
+ - Responsive Navbar
+ - Dynamic link card
+ - show details button
+ - Two button (Read List and Wish List)
+ - button single clicked add to Read List 
+ - double clicked onle button show a toast 
+ - button clicked and add data in localStorage
+
+
+``` 
+code 
+```
+
+![img](https://i.ibb.co/vd1zvN2/minion.png)
